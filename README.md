@@ -1,1 +1,3 @@
 # someNotes
+
+在VMware虚拟机中centOS7上部署异构网管系统代码时遇到的一些问题
