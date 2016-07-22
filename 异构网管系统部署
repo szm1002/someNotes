@@ -1,0 +1,7 @@
+遇到的问题：
+
+1._STORAGE_WRITE_ERROR_
+解决办法：把Runtime文件夹清空但留下该文件夹。
+
+2.目录[./Runtime/]不可写
+解决办法：给该文件夹添加写权限；关闭SELinux。
