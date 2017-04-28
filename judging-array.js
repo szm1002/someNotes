@@ -13,6 +13,10 @@ obj instanceof Array    //false
 Object.prototype.toString.call(arr) === '[object Array]'    //true
 Object.prototype.toString.call(obj) === '[object Array]'    //false
 
+//4.利用 ES5 新增的 Array.isArray() 方法
+Array.isArray(arr)    //true
+Array.isArray(obj)    //false
+
 
 //注意： typeof 运算符无法区分数组与对象
 typeof arr    //'object'
