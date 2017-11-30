@@ -3,8 +3,8 @@
     <h1>父组件 Parent</h1>
     <p>从子组件获取的数据为 {{ childMsg }}</p>
     <Child :message="parentMsg" @childEvent="handleMsgFromChild"></Child>
-    <firstSibling></firstSibling>
-    <secondSibling></secondSibling>
+    <FirstSibling></FirstSibling>
+    <SecondSibling></SecondSibling>
   </div>
 </template>
 
