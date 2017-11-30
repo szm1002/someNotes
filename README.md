@@ -4,3 +4,4 @@
 2. [常见排序算法的JS实现代码](https://github.com/szm1002/someNotes/blob/master/sorting-algorithm-in-js.js)
 3. [块元素水平垂直居中的几种方式](https://github.com/szm1002/someNotes/blob/master/div-align-center.css)
 4. [如何判断一个变量是数组类型](https://github.com/szm1002/someNotes/blob/master/judging-array.js)
+5. [Vue 组件间通信](https://github.com/szm1002/someNotes/tree/master/communication-between-components-vue)
